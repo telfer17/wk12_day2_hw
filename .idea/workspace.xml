@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f298241-d3cd-4c8e-9d56-5ef9c75227bb" name="Default Changelist" comment="" />
+    <list default="true" id="1f298241-d3cd-4c8e-9d56-5ef9c75227bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BuildingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Godzilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Godzilla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kaiju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kaiju.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mothra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Mothra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ApacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GodzillaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GodzillaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MothraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MothraTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ApacheTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ApacheTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GodzillaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GodzillaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MothraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MothraTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TankTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TankTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,24 +36,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2381" />
+          <entry key="java" value="3018" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2381" />
+          <entry key="JAVA" value="3018" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="java" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="31" />
         </counts>
       </usages-collector>
     </session>
@@ -47,24 +63,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Kaiju.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-317">
-              <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+            <state relative-caret-position="280">
+              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,14 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Godzilla.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="297">
+              <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -88,14 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Mothra.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -103,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/GodzillaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+            <state relative-caret-position="161">
+              <caret line="54" selection-start-line="54" selection-end-line="57" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,20 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/MothraTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TankTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+            <state relative-caret-position="297">
+              <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,31 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="76">
               <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ApacheTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,14 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Apache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -189,12 +138,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Tank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-              <folding>
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Behaviours/IDamage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Behaviours/IAttack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -204,10 +167,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -215,14 +181,16 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Behaviours/IDamage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Behaviours/IAttack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Apache.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TankTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ApacheTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BuildingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Building.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tank.java" />
         <option value="$PROJECT_DIR$/src/main/java/Kaiju.java" />
         <option value="$PROJECT_DIR$/src/main/java/Godzilla.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mothra.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Apache.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ApacheTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TankTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GodzillaTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/MothraTest.java" />
       </list>
@@ -240,6 +208,7 @@
     <option name="width" value="1280" />
     <option name="height" value="732" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -301,7 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542758619775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542795370549" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RunDashboard">
@@ -316,65 +285,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MothraTest">
-    <configuration name="GodzillaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MothraTest.canMove">
+    <configuration name="ApacheTest.canSetType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kaiju" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GodzillaTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GodzillaTest.canSetAttackValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kaiju" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GodzillaTest" />
-      <option name="METHOD_NAME" value="canSetAttackValue" />
+      <option name="MAIN_CLASS_NAME" value="ApacheTest" />
+      <option name="METHOD_NAME" value="canSetType" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MothraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GodzillaTest.canMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kaiju" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MothraTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MothraTest.canSetAttackValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kaiju" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MothraTest" />
-      <option name="METHOD_NAME" value="canSetAttackValue" />
+      <option name="MAIN_CLASS_NAME" value="GodzillaTest" />
+      <option name="METHOD_NAME" value="canMove" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GodzillaTest.canSetName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kaiju" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TankTest" />
+      <option name="MAIN_CLASS_NAME" value="GodzillaTest" />
+      <option name="METHOD_NAME" value="canSetName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MothraTest.canMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kaiju" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MothraTest" />
+      <option name="METHOD_NAME" value="canMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MothraTest.canSetName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kaiju" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MothraTest" />
+      <option name="METHOD_NAME" value="canSetName" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.GodzillaTest" />
-      <item itemvalue="JUnit.MothraTest" />
-      <item itemvalue="JUnit.TankTest" />
-      <item itemvalue="JUnit.GodzillaTest.canSetAttackValue" />
-      <item itemvalue="JUnit.MothraTest.canSetAttackValue" />
+      <item itemvalue="JUnit.ApacheTest.canSetType" />
+      <item itemvalue="JUnit.GodzillaTest.canSetName" />
+      <item itemvalue="JUnit.MothraTest.canSetName" />
+      <item itemvalue="JUnit.GodzillaTest.canMove" />
+      <item itemvalue="JUnit.MothraTest.canMove" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MothraTest" />
-        <item itemvalue="JUnit.MothraTest.canSetAttackValue" />
-        <item itemvalue="JUnit.GodzillaTest" />
-        <item itemvalue="JUnit.GodzillaTest.canSetAttackValue" />
-        <item itemvalue="JUnit.TankTest" />
+        <item itemvalue="JUnit.MothraTest.canMove" />
+        <item itemvalue="JUnit.GodzillaTest.canMove" />
+        <item itemvalue="JUnit.MothraTest.canSetName" />
+        <item itemvalue="JUnit.GodzillaTest.canSetName" />
+        <item itemvalue="JUnit.ApacheTest.canSetType" />
       </list>
     </recent_temporary>
   </component>
@@ -392,35 +367,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApacheTest - 2018.11.20 at 23h 56m 43s.xml">
-      <configuration name="ApacheTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApacheTest - 2018.11.20 at 23h 57m 22s.xml">
-      <configuration name="ApacheTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApacheTest - 2018.11.20 at 23h 57m 36s.xml">
-      <configuration name="ApacheTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GodzillaTest - 2018.11.20 at 23h 57m 50s.xml">
-      <configuration name="GodzillaTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MothraTest - 2018.11.20 at 23h 58m 02s.xml">
-      <configuration name="MothraTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TankTest - 2018.11.20 at 23h 59m 01s.xml">
-      <configuration name="TankTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TankTest - 2018.11.20 at 23h 59m 38s.xml">
-      <configuration name="TankTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GodzillaTest - 2018.11.21 at 00h 00m 17s.xml">
-      <configuration name="GodzillaTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GodzillaTest_canSetAttackValue - 2018.11.21 at 00h 01m 20s.xml">
-      <configuration name="GodzillaTest.canSetAttackValue" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GodzillaTest - 2018.11.21 at 00h 01m 48s.xml">
       <configuration name="GodzillaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MothraTest_canSetAttackValue - 2018.11.21 at 00h 03m 33s.xml">
+      <configuration name="MothraTest.canSetAttackValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MothraTest - 2018.11.21 at 00h 03m 39s.xml">
+      <configuration name="MothraTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MothraTest - 2018.11.21 at 00h 03m 42s.xml">
+      <configuration name="MothraTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TankTest_canSetType - 2018.11.21 at 09h 41m 12s.xml">
+      <configuration name="TankTest.canSetType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApacheTest_canSetType - 2018.11.21 at 09h 41m 51s.xml">
+      <configuration name="ApacheTest.canSetType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GodzillaTest_canSetName - 2018.11.21 at 09h 42m 57s.xml">
+      <configuration name="GodzillaTest.canSetName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MothraTest_canSetName - 2018.11.21 at 09h 43m 51s.xml">
+      <configuration name="MothraTest.canSetName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GodzillaTest_canMove - 2018.11.21 at 10h 15m 45s.xml">
+      <configuration name="GodzillaTest.canMove" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GodzillaTest_canMove - 2018.11.21 at 10h 15m 54s.xml">
+      <configuration name="GodzillaTest.canMove" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -434,7 +409,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3296875" />
@@ -466,6 +441,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TankTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BuildingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Apache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Behaviours/IAttack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -480,125 +496,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Godzilla.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Apache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Kaiju.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-317">
-          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        <state relative-caret-position="76">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mothra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Tank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kaiju.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApacheTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="280">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TankTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Godzilla.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="297">
+          <caret line="18" selection-start-line="18" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Mothra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GodzillaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="161">
+          <caret line="54" selection-start-line="54" selection-end-line="57" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -607,8 +549,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MothraTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        <state relative-caret-position="297">
+          <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

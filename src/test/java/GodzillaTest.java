@@ -20,6 +20,12 @@ public class GodzillaTest {
     }
 
     @Test
+    public void canSetName() {
+        godzilla.setName("Gojira");
+        assertEquals("Gojira", godzilla.getName());
+    }
+
+    @Test
     public void hasHealthValue(){
         assertEquals(100, godzilla.getHealthValue());
     }
@@ -44,6 +50,11 @@ public class GodzillaTest {
     public void canAttack(){
         godzilla.attack(tank);
         assertEquals(20, tank.getHealthValue());
+    }
+
+    @Test
+    public void canMove(){
+        assertEquals("I am walking", godzilla.move());
     }
 
 

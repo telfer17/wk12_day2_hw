@@ -6,7 +6,6 @@ public class Godzilla extends Kaiju {
         super(name, healthValue, attackValue);
     }
 
-
     public void attack(IDamage idamage) {
         idamage.takeDamage(this.getAttackValue());
     }
@@ -14,5 +13,10 @@ public class Godzilla extends Kaiju {
     public void takeDamage(int damage) {
         int health = this.getHealthValue();
         this.setHealthValue(health - damage);
+    }
+
+
+    public String move() {
+        return "I am walking";
     }
 }

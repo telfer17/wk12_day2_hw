@@ -20,6 +20,12 @@ public class ApacheTest {
     }
 
     @Test
+    public void canSetType() {
+        apache.setType("Chopper");
+        assertEquals("Chopper", apache.getType());
+    }
+
+    @Test
     public void hasHealthValue() {
         assertEquals(100, apache.getHealthValue());
     }

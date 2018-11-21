@@ -6,12 +6,14 @@ public class Tank extends Vehicle {
         super(type, healthValue, attackValue);
     }
 
+//    attacks something that is damageable and attacks it with the attack value given
     public void attack(IDamage idamage) {
         idamage.takeDamage(this.getAttackValue());
     }
 
+//    should probably add the attack & takeDamage methods to the abstract classes...
     public void takeDamage(int damage) {
         int healthValue = this.getHealthValue();
-        this.setHealthValue( healthValue - damage);
+        this.setHealthValue(healthValue - damage);
     }
 }

@@ -20,6 +20,12 @@ public class MothraTest {
     }
 
     @Test
+    public void canSetName() {
+        mothra.setName("Big Lizard");
+        assertEquals("Big Lizard", mothra.getName());
+    }
+
+    @Test
     public void hasHealthValue(){
         assertEquals(100, mothra.getHealthValue());
     }
@@ -45,4 +51,10 @@ public class MothraTest {
         mothra.attack(apache);
         assertEquals(40, apache.getHealthValue());
     }
+
+    @Test
+    public void canMove(){
+        assertEquals("I am flying", mothra.move());
+    }
+
 }

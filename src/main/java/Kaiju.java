@@ -40,4 +40,6 @@ public abstract class Kaiju implements IAttack, IDamage {
     public String roar() {
         return "Roaaarrr!!";
     }
+
+    public abstract String move();
 }

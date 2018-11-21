@@ -15,4 +15,8 @@ public class Mothra extends Kaiju {
         int health = this.getHealthValue();
         this.setHealthValue(health - damage);
     }
+
+    public String move() {
+        return "I am flying";
+    }
 }

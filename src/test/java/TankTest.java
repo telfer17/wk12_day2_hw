@@ -20,6 +20,12 @@ public class TankTest {
     }
 
     @Test
+    public void canSetType(){
+        tank.setType("Big Tank");
+        assertEquals("Big Tank", tank.getType());
+    }
+
+    @Test
     public void hasHealthValue(){
         assertEquals(100, tank.getHealthValue());
     }
